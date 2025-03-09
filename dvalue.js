@@ -31,10 +31,10 @@
 
 // console.log("Max val : ", max);
 
-const number = [1, 4, 2, 3, 6, , 9];
-number.sort((a, b) => b - a);
-const value = number[0];
-console.log("Max val : ", value);
+// const number = [1, 4, 2, 3, 6, , 9];
+// number.sort((a, b) => b - a);
+// const value = number[0];
+// console.log("Max val : ", value);
 
 for (let i = 1; i < 100; i++) {
       console.log(i);
